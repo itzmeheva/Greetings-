@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Greeting Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        .card {
+            border: 2px solid #000;
+            border-radius: 10px;
+            padding: 20px;
+            background-color: #fff;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        .message {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .signature {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>🎉🎂🎁 Happy Birthday, Lakshith! 🎁🎂🎉</h2>
+        <p class="message">
+            On your special day, may every moment be filled with happiness, laughter, and joy. May your dreams soar high and your heart be filled with love and blessings. Here's to another fabulous year ahead!
+        </p>
+        <p class="signature">Best Wishes, Heva</p>
+    </div>
+</body>
+</html>
